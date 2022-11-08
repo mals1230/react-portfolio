@@ -14,16 +14,16 @@ const Header = () => {
         </div>
         <div>
             <>
-              <Link className="btn btn-lg btn-info m-2" to="/login">
+              <Link className="btn btn-lg btn-info m-2" to="/about">
                 About Me
               </Link>
-              <Link className="btn btn-lg btn-light m-2" to="/signup">
+              <Link className="btn btn-lg btn-light m-2" to="/portfolio">
                 Portfolio
               </Link>
-              <Link className="btn btn-lg btn-info m-2" to="/login">
+              <Link className="btn btn-lg btn-info m-2" to="/contact">
                 Contact
               </Link>
-              <Link className="btn btn-lg btn-light m-2" to="/signup">
+              <Link className="btn btn-lg btn-light m-2" to="/resume">
                 Resume
               </Link>
             </>
