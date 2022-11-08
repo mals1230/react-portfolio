@@ -6,7 +6,7 @@ const Contact = () => {
       <main>
         <div className="flex-row justify-center">
           <div className="col-12 col-md-12 mb-3 p-3">
-            <About /> 
+            {/* <ContactForm />  */}
           </div>
         </div>
       </main>
