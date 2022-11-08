@@ -10,7 +10,6 @@ const Header = () => {
           <Link className="text-light" to="/">
             <h1 className="m-0">Mallory Sheehan's Portfolio</h1>
           </Link>
-          <p className="m-0">placeholder text</p>
         </div>
         <div>
             <>
