@@ -15,16 +15,16 @@ const Header = () => {
         <div>
             <>
               <Link className="btn btn-lg btn-info m-2" to="/login">
-                Log In
+                About Me
               </Link>
               <Link className="btn btn-lg btn-light m-2" to="/signup">
-                Sign Up
+                Portfolio
               </Link>
               <Link className="btn btn-lg btn-info m-2" to="/login">
-                Log In
+                Contact
               </Link>
               <Link className="btn btn-lg btn-light m-2" to="/signup">
-                Sign Up
+                Resume
               </Link>
             </>
         </div>
