@@ -16,7 +16,7 @@ const Footer = () => {
             </button>
           )}
           <h4 className="footer-txt">
-            Made with 💚 by Mallory Sheehan.
+          <a href="https://github.com/mals1230">GitHub</a> | <a href="https://www.linkedin.com/in/mallory-sheehan-75353950/">LinkedIn</a>
           </h4>
         </div>
       </footer>
