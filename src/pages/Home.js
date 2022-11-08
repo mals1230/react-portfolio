@@ -6,10 +6,8 @@ const Home = () => {
   return (
     <main>
       <div className="flex-row justify-center">
-       
-        <div className="col-12 col-md-10 mb-3 p-3">
+        <div className="col-12 col-md-12 mb-3 p-3">
           <About /> 
-          <p>test test</p>
         </div>
       </div>
     </main>
