@@ -35,6 +35,7 @@ This project is covered under MIT license.  Click on the license badge at the to
 
 ## Links
 - Mal's GitHub Repo: https://github.com/mals1230/react-portfolio
+- Deployed app - https://mals1230.github.io/
 
 ## Questions
 Have questions about this project? Feel free to go to the project's repo and post an issue
