@@ -2,15 +2,12 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Home from "./pages/Home";
-// import Contact from "./pages/Contact";
+import Contact from "./pages/Contact";
 import About from "./pages/About";
-// import Portfolio from "./pages/Portfolio";
-// import Resume from "./pages/Resume";
-// import ContactForm from "./components/ContactForm";
+import Portfolio from "./pages/Portfolio";
+import Resume from "./pages/Resume";
 import Header from "./components/Headers";
 import Footer from "./components/Footers";
-
-
 
 function App() {
   return (
@@ -21,8 +18,9 @@ function App() {
           <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/about" element={<About />} />
-              {/* <Route path="/contact" element={<Contact />} /> */}
-              {/* <Route path="/profile/:userFullName" element={<Profile />} /> */}
+              <Route path="/resume" element={<Resume />} />
+              <Route path="/portfolio" element={<Portfolio />} />
+              <Route path="/contact" element={<Contact />} />
             </Routes>
           </div>
           <Footer />
