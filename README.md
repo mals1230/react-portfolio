@@ -6,7 +6,6 @@ As an employer looking for canidates with experience building single-page applic
 - [Acceptance Criteria](#acceptance-criteria)
 * [Licenses](#licenses)
 - [Technologies Used](#technologies-used)
-- [Demo](#demo)
 - [Links](#links)
 - [Questions](#questions)
 
@@ -29,9 +28,11 @@ As an employer looking for canidates with experience building single-page applic
 This project is covered under MIT license.  Click on the license badge at the top of the README to learn more.
 
 ## Technologies Used
-
-## Demo
-- 
+- HTML
+- CSS
+- Javascript
+- React 
+- Bootstrap
 
 ## Links
 - Mal's GitHub Repo: https://github.com/mals1230/react-portfolio
