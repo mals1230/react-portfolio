@@ -1,4 +1,5 @@
 import React from "react";
+import mal from "./mal.png"
 
 const About = () => {
 
@@ -11,7 +12,7 @@ const About = () => {
         </h2>
 
         <h3 className="col-12 col-md-3 bg-dark text-light p-3 mb-5">
-            <img src="./assets/mal.png" alt="Mallory Sheehan"/>
+            <img src={mal} alt="Mallory Sheehan"/>
         </h3>
 
       </div>
