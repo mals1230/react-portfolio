@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.55ab2da4.css",
-    "main.js": "/react-portfolio/static/js/main.967bd2fc.js",
+    "main.css": "/react-portfolio/static/css/main.66fe3522.css",
+    "main.js": "/react-portfolio/static/js/main.360e6917.js",
+    "static/media/eff.png": "/react-portfolio/static/media/eff.93a5318ac3c5c05f7dbd.png",
+    "static/media/bookclub.png": "/react-portfolio/static/media/bookclub.ebf3e28a24adb58d817d.png",
+    "static/media/mal.png": "/react-portfolio/static/media/mal.8cb85a287fe3ebbe5430.png",
+    "static/media/codequiz.png": "/react-portfolio/static/media/codequiz.5997639ca9533a7f616c.png",
+    "static/media/scheduler.png": "/react-portfolio/static/media/scheduler.03243831455fe5aaef25.png",
+    "static/media/takeahike.png": "/react-portfolio/static/media/takeahike.02a5558cf611b000538c.png",
+    "static/media/password.png": "/react-portfolio/static/media/password.dbf75b46dbfe188a5ec6.png",
     "index.html": "/react-portfolio/index.html",
-    "main.55ab2da4.css.map": "/react-portfolio/static/css/main.55ab2da4.css.map",
-    "main.967bd2fc.js.map": "/react-portfolio/static/js/main.967bd2fc.js.map"
+    "main.66fe3522.css.map": "/react-portfolio/static/css/main.66fe3522.css.map",
+    "main.360e6917.js.map": "/react-portfolio/static/js/main.360e6917.js.map"
   },
   "entrypoints": [
-    "static/css/main.55ab2da4.css",
-    "static/js/main.967bd2fc.js"
+    "static/css/main.66fe3522.css",
+    "static/js/main.360e6917.js"
   ]
 }
